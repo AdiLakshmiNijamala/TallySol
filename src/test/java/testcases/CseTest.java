@@ -24,7 +24,7 @@ public class CseTest extends TestBaseFile{
 	public void startBrowser() throws IOException, InterruptedException {
 		
 		driver=initializeDriver();	
-		System.out.println("For Checking");
+		System.out.println("For Checking File");
 	}
 	@Test
 	public void CseTestPage() throws InterruptedException {
